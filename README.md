@@ -3,7 +3,12 @@
 <h1 align="center">LasterBomber- Discord : lasterfor3ver</h1>
 
 
-### Installation
+## About The Project
+Camera-Graber is a public tool made by lasterfor3ver camera-graber grabs cameras ip so you can watch the world xD enjoy <!
+
+
+
+### Getting started
 
 1. Clone the repo
    ```sh
