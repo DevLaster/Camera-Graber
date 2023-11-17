@@ -3,12 +3,6 @@
 <h1 align="center">LasterBomber- Discord : lasterfor3ver</h1>
 
 
- <!--INSTALLION -->
-
- ### * Install Required Libraries
-    
-    $ pip install -r requirements.txt
-
 ### Installation
 
 1. Clone the repo
@@ -19,3 +13,11 @@
    ```
    python Camera-Graber.py
    ```
+
+ <!--INSTALLION -->
+
+ ### * Install Required Libraries
+    
+    $ pip install -r requirements.txt
+
+
