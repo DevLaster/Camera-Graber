@@ -1,7 +1,7 @@
-# Camera-Graber From lasterfor3ver
+# Camera-Graber From laster
 
-<h1 align="center">LasterBomber- Discord : lasterfor3ver</h1>
-
+<h1 align="center"> Discord : 357r</h1>
+<h2 align="center"> Discord : Join Our Discord Server https://discord.gg/yqeZuqmG</h2>
 
 ## About The Project
 Camera-Graber is a public tool made by lasterfor3ver camera-graber grabs cameras ip so you can watch the world xD enjoy <!
