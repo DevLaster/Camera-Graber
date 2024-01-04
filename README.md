@@ -10,6 +10,11 @@ Camera-Graber is a public tool made by lasterfor3ver camera-graber grabs cameras
 
 ### Getting started
 
+### * Install Required Libraries
+    
+    $ pip install -r requirements.txt
+
+
 1. Clone the repo
    ```sh
     https://github.com/DevLaster/Camera-Graber.git
@@ -21,8 +26,5 @@ Camera-Graber is a public tool made by lasterfor3ver camera-graber grabs cameras
 
  <!--INSTALLION -->
 
- ### * Install Required Libraries
-    
-    $ pip install -r requirements.txt
-
+ \
 
