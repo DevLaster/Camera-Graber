@@ -21,7 +21,7 @@ Camera-Graber is a public tool made by lasterfor3ver camera-graber grabs cameras
    ```
 2. Run in cmd when you insall all the Libraries
    ```
-   python Camera-Graber.py
+   python cam.py
    ```
 
  <!--INSTALLION -->
